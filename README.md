@@ -92,4 +92,4 @@ This code is provided for educational purposes.
 
 ## Author
 
-Generated for PHY313 course materials.
+Generated for junior-level undergraduate classical mechanics course materials.
